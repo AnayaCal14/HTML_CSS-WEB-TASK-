@@ -1,0 +1,24 @@
+.abtme{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 2cm;
+    position: fixed;
+    right: 500px;
+    color: rgb(239,239,245);
+}
+.text{
+    position: absolute;
+    right: 50px;
+    top: 4cm;
+    left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7cm;
+    color: beige;
+}
+.ing{
+    position: absolute;
+    top: 4cm;
+    right: 10px;
+
+}
